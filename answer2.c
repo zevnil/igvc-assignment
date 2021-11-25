@@ -1,5 +1,5 @@
-#Submitted by: Jyotsana Srivastava
-#Enrolment No.: IIT2019174
+//Submitted by: Jyotsana Srivastava
+//Enrolment No.: IIT2019174
 #include <GL/glut.h> 
 #include <time.h> // GLUT, include glu.h and gl.h
  
