@@ -2,6 +2,7 @@
 //Enrolment No.: IIT2019174
 #include <GL/glut.h> 
 #include <time.h> // GLUT, include glu.h and gl.h
+#include <math.h>
  
 /* Global variables */
 char title[] = "3D Shapes with animation";
